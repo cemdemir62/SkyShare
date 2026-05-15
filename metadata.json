@@ -1,0 +1,6 @@
+{
+  "name": "SkyTransfer",
+  "description": "Zero-server, P2P file transfer app using WebRTC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
